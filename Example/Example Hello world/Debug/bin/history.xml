@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Example Hello world.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Example Hello world -TC:\CooCox\CoIDE\configuration\ProgramData\Example Hello world/arm-gcc-link.ld -g">
+      <target file="Example Hello world.elf" lastModified="17507ba94eb">
+         <source file="..\obj\system_stm32f10x.o" lastModified="17507ba9014"/>
+         <source file="..\obj\startup_stm32f10x_hd.o" lastModified="17507ba908a"/>
+         <source file="..\obj\main.o" lastModified="17507ba9174"/>
+         <source file="..\obj\syscalls.o" lastModified="17507ba9242"/>
+      </target>
+   </processor>
+</history>

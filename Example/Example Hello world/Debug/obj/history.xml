@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F103RC -DSTM32F10X_HD -IE:\My Projects\Example\cmsis -IE:\My Projects -IE:\My Projects\Example -IE:\ -IE:\My Projects\Example\cmsis_boot">
+      <target file="system_stm32f10x.o" lastModified="17507ba9014">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="17506a01e41"/>
+      </target>
+      <target file="startup_stm32f10x_hd.o" lastModified="17507ba908a">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_hd.c" lastModified="17506a01ddd"/>
+      </target>
+      <target file="syscalls.o" lastModified="17507ba9242">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="17506b154e3"/>
+      </target>
+      <target file="main.o" lastModified="17507ba9174">
+         <source file="..\..\..\main.c" lastModified="17507ba8b77"/>
+      </target>
+   </processor>
+</history>
