@@ -1,6 +1,7 @@
 # stm32f103-16x2-LCD-4-bit
 
-use my blog to more details blog - 
+use my blog to more details 
+blog - https://nimeshhathurusingha.wordpress.com/2020/10/08/16x2-lcd-for-stm32/ 
 
 example - There is CooCox project using this header file. 
 
